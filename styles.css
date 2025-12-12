@@ -134,7 +134,7 @@ nav ul li a:hover::after {
 	display: flex;
 	align-items: center;
 	justify-content:flex-start;
-	background-image: url("img/kenny-omori2.jpg");
+	background-image: url("img/kennybg.jpg");
 	background-size: cover;
 	background-position: center;
 	height: 950px;
@@ -914,3 +914,4 @@ iframe {
 .right-arrow {
   right: 10px;
 }
+
